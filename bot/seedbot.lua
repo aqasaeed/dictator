@@ -224,26 +224,7 @@ function create_config( )
     sudo_users = {146340607,156907037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    about_text = [Teleseed v4 - Open Source
-An advance Administration bot based on yagop/telegram-bot 
-
-https://github.com/SEEDTEAM/TeleSeed
-
-Admins
-@iwals [Founder]
-@imandaneshi [Developer]
-@Rondoozle [Developer]
-@seyedan25 [Manager]
-
-Special thanks to
-awkward_potato
-Siyanew
-topkecleon
-Vamptacus
-
-Our channels
-@teleseedch [English]
-@iranseed [persian]
+    
 ]],
     help_text_realm = [[
 Realm Commands:
