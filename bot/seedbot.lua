@@ -224,7 +224,7 @@ function create_config( )
     sudo_users = {146340607,156907037},--Sudo users
     disabled_channels = {},
     moderation = {data = 'data/moderation.json'},
-    ]],
+  ],
     help_text_realm = [[
 Realm Commands:
 
